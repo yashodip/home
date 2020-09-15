@@ -1,0 +1,32 @@
+{
+  "backgroundType": "gradient",
+  "plainBackgroundMode": "daylight",
+  "devIntro": "Yashodip Deshmukh",
+  "devDesc": "Programmer | Web Developer | Windows Administrator | SQL Administrator",
+  "gradientColors": "#EE7752, #E73C7E, #23A6D5, #23D5AB",
+  "icons": [
+    {
+      "id": 0,
+      "image": "fa-github",
+      "url": "https://github.com/yashodip",
+      "style": "socialicons"
+    },
+    {
+      "id": 3,
+      "image": "fa-linkedin",
+      "url": "https://www.linkedin.com/in/yashodip-deshmukh/",
+      "style": "socialicons"
+    }
+  ],
+  "instaLink": "https://www.instagram.com/",
+  "instaUsername": "yashodip_deshmukh",
+  "instaQuerry": "/?__a=1",
+  "showInstaProfilePic": true,
+  "aboutDev": "I'm Associate Application Developer with 1+ year experience. I have completed my bachelor of engineering in Information Technology from International Institute of Information Technology, Pune. I'm passionate about web design and development. I love to work on React and Javascript. ",
+  "moreInfo": "I was winner of \"SEED it Idol 2017\". This was university level competition.",
+  "hobbies": "I love to attend seminar and meetups at various companies. I love to play cricket. I played Vinoo makand trophy under 17 age. We were runner up.",
+  "gitHubLink": "https://api.github.com/users/",
+  "gitHubUsername": "yashodip",
+  "gitHubQuerry": "/repos?sort=updated&direction=desc",
+  "projectsLength": 6
+}

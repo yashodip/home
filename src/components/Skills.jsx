@@ -25,12 +25,13 @@ const Skills = () => {
                                     <p className="lead">JavaScript (ES6)
                   <ProgressBar now={87} style={{ width: '490px', backgroundColor: 'white' }} />
                                     </p>
-                                    <p className="lead">PHP
-                <ProgressBar now={75} style={{ width: '490px', backgroundColor: 'white' }} />
-                                    </p>
                                     <p className="lead">Data Structures and Algorithms
                 <ProgressBar now={60} style={{ width: '490px', backgroundColor: 'white' }} />
                                     </p>
+                                    <p className="lead">PHP
+                <ProgressBar now={75} style={{ width: '490px', backgroundColor: 'white' }} />
+                                    </p>
+
                                     <p className="lead">Windows Server Administration (2012 R2, 2016)
                   <ProgressBar now={80} style={{ width: '490px', backgroundColor: 'white' }} />
                                     </p>
